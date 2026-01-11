@@ -1,0 +1,27 @@
+# Privacy Policy
+
+LogoForge is designed with privacy as a foundational principle. This document explains how your data is handled.
+
+## No Data Collection
+
+- LogoForge **never** connects to the internet after installation unless you manually download updates.
+- The application contains **no telemetry**, analytics, crash reporting, or hidden network calls.
+- All prompts, designs, and project files are stored **only on your local machine**.
+
+## Local Storage
+
+By default, projects are saved to:
+- **Windows**: `%USERPROFILE%\Documents\LogoForge`
+- **macOS**: `~/Documents/LogoForge`
+- **Linux**: `~/Documents/LogoForge`
+
+These directories are never accessed by external services.
+
+## Verification
+
+You may:
+- Inspect the source code (fully open)
+- Monitor network activity via firewall (no outbound connections observed)
+- Audit binaries using standard reverse-engineering tools
+
+LogoForge respects your right to create without surveillance.
