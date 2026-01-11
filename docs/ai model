@@ -1,0 +1,32 @@
+# AI Model Licensing
+
+LogoForge includes embedded generative models for logo synthesis. All models are distributed under permissive, commercially safe licenses.
+
+## Included Models
+
+- **Forge-Icon v1.0**  
+  Architecture: Quantized Vector Diffusion Transformer  
+  License: [CreativeML Open RAIL-M](https://huggingface.co/spaces/CompVis/stable-diffusion-license)  
+  Modifications: Retrained on CC0 + public domain logo datasets; no trademarked symbols included.
+
+- **Forge-Type Engine**  
+  Font Set: Google Fonts + OFL-licensed typefaces (e.g., Inter, Montserrat, Roboto)  
+  License: [SIL Open Font License (OFL)](https://scripts.sil.org/OFL)
+
+- **Color & Layout Heuristics**  
+  Source: Custom implementation based on academic color theory (CIELAB, Itten)  
+  License: MIT (same as main project)
+
+## Usage Rights
+
+You may:
+- Use generated logos for personal or commercial purposes
+- Modify and redistribute outputs without attribution
+- Embed LogoForge in internal tools (subject to MIT terms)
+
+You may not:
+- Redistribute model weights as standalone assets
+- Claim ownership of the underlying AI architecture
+- Use outputs that replicate registered trademarks (user responsibility)
+
+All generation occurs offline. No data is collected or transmitted.
